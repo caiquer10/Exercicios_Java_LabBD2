@@ -1,0 +1,22 @@
+// Exercicio 1 -> nome da classe Main
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Heloo Teacher");
+    }
+}
+
+// Exercicio 2
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Heloo Teacher");
+        System.out.println("Segunda linha")
+    }
+
+// Exercicio 3
+
+public class HelloWorld {
+    public static void main(String[] args) { 
+        System.out.println("Ola Mundo/nEstou bem");
+}
+}
