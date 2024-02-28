@@ -1,0 +1,13 @@
+public class Main {
+    public static void main(String[] args) {
+        int janeiroGasto = 15000;
+        int fevereiroGasto = 23000;
+        int marcoGasto = 17000;
+        int somaTotal = janeiroGasto + fevereiroGasto + marcoGasto;
+
+        double media = (double) somaTotal / 3;
+
+        System.out.println("A média de gastos é: " + media);
+        System.out.println(String.format("%.2f", media)); // dois numero após virgula somente
+    }
+}
